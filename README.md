@@ -1,9 +1,8 @@
 ## Oi! Eu sou o Ilberto!
 
 
-- 🌱 Estou estudando desenvolvimento fullstack
+- 🌱 4 anos de experiência
 - 👯 Procuro colaborar com outros desenvolvedores 
-- 🤔 Busco ajuda nas diversas áreas... sou Jr.
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sou sonoplasta e músico!
 
